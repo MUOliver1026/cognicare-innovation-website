@@ -12,6 +12,10 @@ export default {
         'footer-bg': '#436378',
       },
     },
+    fontFamily: {
+      'heading': ['"Dancing Script", cursive'],
+      'heading2': ['"DM Serif Display", serif']
+    },
   },
   plugins: [],
 }

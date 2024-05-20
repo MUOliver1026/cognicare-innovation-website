@@ -5,7 +5,7 @@ import MedicinePic from '../assets/2.png';
 export default function HitDiscoveryOptimization() {
   return (
     <main>
-      <div className='bg-regal-purple px-4 py-2 text-white flex items-center justify-center text-2xl h-16'>
+      <div className='bg-regal-purple font-heading2 tracking-wide px-4 py-2 text-white flex items-center justify-center text-2xl h-16'>
       Hit Discovery & Optimization
       </div>
       <Breadcrumbs />
@@ -16,7 +16,7 @@ export default function HitDiscoveryOptimization() {
         </div>
 
         <div className='grid-2 bg-white p-4'>
-          <h2 className='text-2xl font-bold text-center py-2'>
+          <h2 className='text-2xl font-heading2 tracking-wide font-bold text-center py-2'>
             115-7c Optimization Compound
           </h2>
           <p className='leading-7'>

@@ -77,7 +77,7 @@ const Header = () => {
         <div className="grid grid-cols-3 items-center mx-auto max-w-screen-xl">
           <div className="text-left" />
           <div className="text-center">
-            <h1 className="text-xl font-bold text-white">Leading the Fight Against Alzheimer's</h1>
+            <h1 className="text-xl font-bold font-heading text-white">Leading the Fight Against Alzheimer's</h1>
           </div>
           <div className="text-right flex justify-end gap-2 items-center">
             <p className="text-sm text-white">Follow us</p>
@@ -97,7 +97,7 @@ const Header = () => {
             <img src={logo} className="h-24 py-1" alt="Company Logo" />
           </a>
           <div className="flex-1 text-center">
-            <h1 className="text-3xl font-bold text-gray-900">Cognicare Innovation</h1>
+            <h1 className="text-4xl font-bold font-heading2 tracking-wide text-gray-900">Cognicare Innovation</h1>
           </div>
           <div className="text-left">
             <p className="text-sm text-gray-500 flex items-center h-full mb-2">

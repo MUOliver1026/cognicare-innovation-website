@@ -4,13 +4,13 @@ import Breadcrumbs from '../components/Breadcrumbs';
 export default function FutureDevelopment() {
   return (
     <main>
-      <div className='bg-regal-purple px-4 py-2 text-white flex items-center justify-center text-2xl h-16'>
+      <div className='bg-regal-purple font-heading2 tracking-wide px-4 py-2 text-white flex items-center justify-center text-2xl h-16'>
         Our Next Steps
       </div>
       <Breadcrumbs />
       <div className='grid grid-cols-2 py-4 px-16'>
         <div className='grid-1 bg-white py-4 px-8'>
-          <h2 className='text-2xl font-bold text-center py-2'>
+          <h2 className='text-2xl font-heading2 tracking-wide font-bold text-center py-2'>
             About Alzheimer’s Disease
           </h2>
           <p>
@@ -19,7 +19,7 @@ export default function FutureDevelopment() {
         </div>
 
         <div className='grid-2 bg-white py-4 px-8'>
-          <h2 className='text-2xl font-bold text-center py-2'>
+          <h2 className='text-2xl font-heading2 tracking-wide font-bold text-center py-2'>
             About the Novel Target – HSP70
           </h2>
           <p>
