@@ -15,8 +15,8 @@ export default function Home() {
         <h3 className='flex justify-center items-center text-center py-4 mx-32 text-sm'>
           Our mission is to build a healthier tomorrow for patientswith Alzheimer's Disease
         </h3>
-        <button className='flex justify-center items-center py-4 px-8 bg-blue-500 text-white rounded-lg'>
-          <Link to='/medicine'>Discover Now</Link>
+        <button class="flex justify-center items-center h-16 py-4 px-8 bg-regal-blue text-white rounded-lg border-regal-purple border-4 hover:bg-regal-purple transition duration-300">
+          <a href="/medicine">Discover Now</a>
         </button>
       </div>
       <div className='grid-2'>
