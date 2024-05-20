@@ -4,6 +4,8 @@ import { DownOutlined } from '@ant-design/icons';
 import { Link } from 'react-router-dom';
 import logo from '../assets/logo.png';
 import { SocialIcon } from 'react-social-icons';
+import EmailIcon from '../assets/email.svg';
+import AddressIcon from '../assets/location-pointer.svg';
 
 const menuItems = [
   {
@@ -16,7 +18,7 @@ const menuItems = [
     label: 'Pages',
     key: 'pages',
     children: [
-      { label: 'Disease & Target', key: 'pages:1', path: '/disease-target' },
+      { label: 'Disease & Target', key: 'pages:1', path: '/disease-&-target' },
       { label: 'Medicine', key: 'pages:2', path: '/medicine' },
     ],
   },
@@ -24,8 +26,7 @@ const menuItems = [
     label: 'Pipeline',
     key: 'pipeline',
     children: [
-      { label: 'Hit Discovery', key: 'pipeline:1', path: '/hit-discovery' },
-      { label: 'Optimization', key: 'pipeline:2', path: '/optimization' },
+      { label: 'Hit Discovery & Optimization', key: 'pipeline:1', path: '/hit-discovery-&-optimization' },
     ],
   },
   {
@@ -98,9 +99,15 @@ const Header = () => {
           <div className="flex-1 text-center">
             <h1 className="text-3xl font-bold text-gray-900">Cognicare Innovation</h1>
           </div>
-          <div className="text-right">
-            <p className="text-sm text-gray-500">contact@mycompany.com</p>
-            <p className="text-sm text-gray-500">1234 Street Name, City, Country</p>
+          <div className="text-left">
+            <p className="text-sm text-gray-500 flex items-center h-full mb-2">
+              <img src={EmailIcon} alt="Email" className="h-4 inline mr-1" />
+                Contact@cong.inc.com
+            </p>
+            <p className="text-sm text-gray-500 flex items-start h-full">
+              <img src={AddressIcon} alt="Address" className="h-4 inline mr-1" />
+                381 Royal Parade, <br />Parkville, VIC 3052, Australia
+            </p>
           </div>
         </div>
       </div>
