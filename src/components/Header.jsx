@@ -73,7 +73,7 @@ const Header = () => {
 
   return (
     <header>
-      <div className="bg-regal-blue border-b border-gray-200 px-4 py-2">
+      <div className="bg-regal-blue px-4 py-2">
         <div className="grid grid-cols-3 items-center mx-auto max-w-screen-xl">
           <div className="text-left" />
           <div className="text-center">
@@ -105,14 +105,14 @@ const Header = () => {
                 Contact@cong.inc.com
             </p>
             <p className="text-sm text-gray-500 flex items-start h-full">
-              <img src={AddressIcon} alt="Address" className="h-4 inline mr-1" />
+              <img src={AddressIcon} alt="Address" className="h-4 inline mr-1 mt-0.5" />
                 381 Royal Parade, <br />Parkville, VIC 3052, Australia
             </p>
           </div>
         </div>
       </div>
 
-      <nav className="bg-regal-blue border-b border-gray-200 px-4">
+      <nav className="bg-regal-blue px-4">
         <Menu onClick={handleClick} selectedKeys={[current]} mode="horizontal" className='bg-regal-blue'>
           {menuItems.map((item) => (
             <Menu.Item key={item.key}>

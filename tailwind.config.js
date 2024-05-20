@@ -8,7 +8,8 @@ export default {
     extend: {
       colors: {
         'regal-blue': '#74aed4',
-        'regal-purple': '#cfafd4'
+        'regal-purple': '#6599b9',
+        'footer-bg': '#436378',
       },
     },
   },

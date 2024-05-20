@@ -10,6 +10,7 @@ import TBD from './pages/TBD';
 import SocietyImpact from './pages/SocietyImpact';
 import FutureDevelopment from './pages/FutureDevelopment';
 import './index.css';
+import Footer from './components/Footer';
 
 const App = () => {
   return (
@@ -28,6 +29,7 @@ const App = () => {
             <Route path="/future-development" element={<FutureDevelopment />} />
           </Routes>
         </main>
+        <Footer />
       </div>
     </Router>
   );
