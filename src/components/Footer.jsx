@@ -11,7 +11,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 items-center gap-8 md:gap-36">
           <div className="flex flex-col justify-center">
             <img src={FooterLogo} alt="Footer Logo" className="h-28 w-fit mx-auto" />
-            <p className="text-white text-center py-4">
+            <p className="text-white text-center font-heading tracking-wide text-xl font-bold py-4">
               Leading the Fight Against Alzheimer's <br />
               To build a healthier tomorrow
             </p>
