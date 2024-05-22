@@ -11,7 +11,7 @@ export default function SocietyImpact() {
 
       <div className='grid grid-cols-2 gap-16 py-8 px-36'>
         <div className='bg-white flex justify-center items-center'>
-          <img src='https://plus.unsplash.com/premium_photo-1661422278122-f75d0c7b655b?q=80&w=3870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' 
+          <img src='https://images.unsplash.com/photo-1584432810601-6c7f27d2362b?q=80&w=3783&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' 
             alt='medicine' className='h-80 ml-20' />
         </div>
 
@@ -20,7 +20,7 @@ export default function SocietyImpact() {
             #3 Good Health and Well-being
           </h2>
           <p>
-            Ensure healthy lives and promote well-being for all at all ages          
+            Ensure healthy lives and promote well-being for all at all ages
           </p><br />
           <ol className="list-decimal list-inside">
             <li>Improve quality of life: Alzheimer's disease can be cured through the use of hsp70 activators to slow down the disease process and improve the quality of life of the patients.</li><br />
@@ -43,7 +43,7 @@ export default function SocietyImpact() {
         </div>
 
         <div className='bg-white flex justify-center items-center'>
-          <img src='https://plus.unsplash.com/premium_photo-1661310027237-8f4ed9ebc6ee?q=80&w=3870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+          <img src='https://images.unsplash.com/photo-1542744095-fcf48d80b0fd?q=80&w=3876&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
             alt='medicine' className='h-80 ml-20' />
         </div>
 
