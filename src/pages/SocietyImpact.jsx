@@ -46,7 +46,8 @@ export default function SocietyImpact() {
         </div>
 
         <div className='grid-2 bg-white p-4'>
-          <img src={MedicinePic} alt='medicine' className='h-80 ml-20' />
+          <img src='https://plus.unsplash.com/premium_photo-1661310027237-8f4ed9ebc6ee?q=80&w=3870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+            alt='medicine' className='h-80 ml-20' />
         </div>
       </div>
 
