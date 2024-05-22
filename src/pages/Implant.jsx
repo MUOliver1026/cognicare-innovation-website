@@ -10,7 +10,7 @@ export default function Implant() {
       </div>
       <Breadcrumbs />
       <div className='grid grid-cols-2 gap-4 py-4 px-24'>
-        <div className='grid-1 bg-white p-4'>
+        <div className='grid-1 bg-white p-4 flex justify-center items-center'>
           <img src={MedicinePic} alt='medicine' className='h-80 ml-20' />
         </div>
 

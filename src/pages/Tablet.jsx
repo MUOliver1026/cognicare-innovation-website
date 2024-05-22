@@ -1,5 +1,6 @@
 import React from 'react'
 import Breadcrumbs from '../components/Breadcrumbs';
+import MedicinePic from '../assets/2.png';
 
 export default function Tablet() {
   const data = [
@@ -112,7 +113,8 @@ export default function Tablet() {
         </div>
       </div>
 
-      <div className='text-lg py-4 px-72'>
+      <div className='grid grid-cols-2 gap-4 py-4 px-24'>
+        <div className='py-4'>
         <h2 className='text-2xl font-heading2 tracking-wide font-bold text-center py-2'>
         Potential Challenges
         </h2>
@@ -136,6 +138,12 @@ export default function Tablet() {
           </li><br />
         </ol>
       </div>
+
+      <div className='grid-2 bg-white p-4 flex justify-center items-center'>
+        <img src={MedicinePic} alt='medicine' className='h-80 flex flex-col justify-center items-center' />
+      </div>
+      </div>
+      
     </main>
   )
 }
