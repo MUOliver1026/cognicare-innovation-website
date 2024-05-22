@@ -139,8 +139,10 @@ export default function Tablet() {
         </ol>
       </div>
 
-      <div className='grid-2 bg-white p-4 flex justify-center items-center'>
-        <img src={MedicinePic} alt='medicine' className='h-80 flex flex-col justify-center items-center' />
+      <div className='grid-2 bg-white px-4 flex justify-center items-center'>
+        <img 
+          src="https://plus.unsplash.com/premium_photo-1673185180549-60b940a773d0?q=80&w=3772&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
+          alt='medicine' className='h-3/5' />
       </div>
       </div>
       

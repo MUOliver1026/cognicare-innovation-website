@@ -11,8 +11,9 @@ export default function SocietyImpact() {
       <Breadcrumbs />
 
       <div className='grid grid-cols-2 py-4 px-16'>
-        <div className='grid-1 bg-white p-4'>
-          <img src={MedicinePic} alt='medicine' className='h-80 ml-20' />
+        <div className='grid-1 bg-white flex justify-center items-center'>
+          <img src='https://images.unsplash.com/photo-1583088580009-2d947c3e90a6?q=80&w=2592&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' 
+            alt='medicine' className='h-72 ml-20' />
         </div>
 
         <div className='grid-2 bg-white py-4 px-8'>
