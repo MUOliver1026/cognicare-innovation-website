@@ -6,7 +6,7 @@ import DiseaseTarget from './pages/DiseaseTarget';
 import Medicine from './pages/Medicine';
 import HitDiscoveryOptimization from './pages/HitDiscoveryOptimization';
 import Tablet from './pages/Tablet';
-import TBD from './pages/TBD';
+import Implant from './pages/Implant';
 import SocietyImpact from './pages/SocietyImpact';
 import FutureDevelopment from './pages/FutureDevelopment';
 import './index.css';
@@ -24,7 +24,7 @@ const App = () => {
             <Route path="/medicine" element={<Medicine />} />
             <Route path="/hit-discovery-&-optimization" element={<HitDiscoveryOptimization />} />
             <Route path="/tablet" element={<Tablet />} />
-            <Route path="/tbd" element={<TBD />} />
+            <Route path="/implant" element={<Implant />} />
             <Route path="/society-impact" element={<SocietyImpact />} />
             <Route path="/future-development" element={<FutureDevelopment />} />
           </Routes>

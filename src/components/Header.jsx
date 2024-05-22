@@ -34,7 +34,7 @@ const menuItems = [
     key: 'formulation',
     children: [
       { label: 'Tablet', key: 'formulation:1', path: '/tablet' },
-      { label: 'TBD', key: 'formulation:2', path: '/tbd' },
+      { label: 'Implant', key: 'formulation:2', path: '/implant' },
     ],
   },
   {
