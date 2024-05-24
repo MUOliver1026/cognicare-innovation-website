@@ -67,7 +67,7 @@ export default function FutureDevelopment() {
         </div>
       </div>
 
-      <div className='bg-white py-8 px-72'>
+      <div className='bg-white py-8 flex flex-col justify-center items-center'>
         <h2 className='text-2xl font-heading2 tracking-wide font-bold text-center py-2'>
           References
         </h2>
