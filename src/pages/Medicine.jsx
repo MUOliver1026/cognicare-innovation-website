@@ -16,10 +16,14 @@ export default function Medicine() {
 
         <div className='grid-2 bg-white p-4'>
           <h2 className='text-2xl font-bold font-heading2 tracking-wide text-center py-2'>
-            115-7c Optimization Compound
+            Cognivita<sup>©</sup>
           </h2>
           <p>
-            The identification of a target is the first step in the drug discovery process. A target is a molecule or structure in the body that the drug is designed to interact with. The target is usually a protein that is involved in a disease process. The drug is designed to interact with the target in a way that stops or slows down the disease process.
+            Cognivita<sup>©</sup> is a novel medication for Alzheimer's disease, designed to reduce amyloid-beta plaques and tau tangles abnormal accumulation. It has demonstrated neuroprotective effects and significant improvements in memory and daily functioning in clinical trials.<br /><br />
+
+            Cognivita<sup>©</sup> is administered orally with well-tolerated and mild side effects, making it easy to use and better patient compliance.<br /><br />
+
+            This innovative treatment offers hope for better management and improved quality of life for Alzheimer's patients.<br /><br />
           </p>
         </div>
       </div>
