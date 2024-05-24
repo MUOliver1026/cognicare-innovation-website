@@ -23,9 +23,9 @@ export default function SocietyImpact() {
             Ensure healthy lives and promote well-being for all at all ages
           </p><br />
           <ol className="list-decimal list-inside">
-            <li>Improve quality of life: Alzheimer's disease can be cured through the use of hsp70 activators to slow down the disease process and improve the quality of life of the patients.</li><br />
-            <li>Decrease death rate: The median duration of survival in Alzheimer's disease is 3.8 years, which can be prolonged with the use of this drug.</li><br />
-            <li>Support for caregivers: Slowing the symptoms of Alzheimer's disease can improve the quality of life and well-being for the patient's family, caregivers.</li><br />
+            <li>Improve quality of life : Alzheimer's disease can be cured through the use of hsp70 activators to slow down the disease process and improve the quality of life of the patients (1).</li><br />
+            <li>Decrease death rate: The median duration of survival in Alzheimer's disease is 3.8 years, which can be prolonged with the use of this drug (2)</li><br />
+            <li>Support for caregivers: Slowing the symptoms of Alzheimer's disease can improve the quality of life and well-being for the patient's family, caregivers (3).</li><br />
           </ol>
         </div>
 
@@ -37,8 +37,8 @@ export default function SocietyImpact() {
             Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all.          
           </p><br />
           <ol className="list-decimal list-inside">
-            <li>Enhancing the capacity of family caregivers: Slowing the progression of Alzheimer's disease for patients who are not retired or who are still financially responsible for their families can make them better able to take care of their family responsibilities.</li><br />
-            <li>Impact on and support for the economy: Alzheimer's disease has a huge financial impact on socioeconomics, the healthcare system, families, and individuals, and alleviating the symptoms can ensure that patients have support for the financial resources listed above.</li><br />
+            <li>Enhancing the capacity of family caregivers: Slowing the progression of Alzheimer's disease for patients who are not retired or who are still financially responsible for their families can make them better able to take care of their family responsibilities (4).</li><br />
+            <li>Impact on and support for the economy: Alzheimer's disease has a huge financial impact on socioeconomics, the healthcare system, families, and individuals, and alleviating the symptoms can ensure that patients have support for the financial resources listed above (5).</li><br />
           </ol>
         </div>
 
@@ -61,9 +61,23 @@ export default function SocietyImpact() {
           </p><br />
           <ol className="list-decimal list-inside">
             <li>Slowing down the process of patient morbidity to ensure the protection of patients' rights: Reducing a patient's disease process and symptoms and improving their cognitive abilities can ensure that they are protected from abuse, neglect, and exploitation.</li><br />
-            <li>Community Inclusion: for patients, only HSP70 activator this type of drug to help slow down the disease can reduce the chances of patients in life, society, unfair treatment.</li><br />
+            <li>Community Inclusion: for patients, only HSP70 activator this type of drug to help slow down the disease can reduce the chances of patients in life, society, unfair treatment (6).</li><br />
           </ol>
         </div>
+      </div>
+
+      <div className='bg-white py-8 px-72'>
+        <h2 className='text-2xl font-heading2 tracking-wide font-bold text-center py-2'>
+          References
+        </h2>
+        <ol className='list-decimal list-inside'>
+          <li><a href='https://www.dementia.org.au/about-dementia/alzheimers-disease' className='text-gray-500 hover:underline'>https://www.dementia.org.au/about-dementia/alzheimers-disease</a></li>
+          <li><a href='https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3962992/' className='text-gray-500 hover:underline'>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3962992/</a></li>
+          <li><a href='https://www.hindawi.com/journals/ijad/2016/9213968/' className='text-gray-500 hover:underline'>https://www.hindawi.com/journals/ijad/2016/9213968/</a></li>
+          <li><a href='https://www.helpguide.org/articles/alzheimers-dementia-aging/tips-for-alzheimers-caregivers.htm' className='text-gray-500 hover:underline'>https://www.helpguide.org/articles/alzheimers-dementia-aging/tips-for-alzheimers-caregivers.htm</a></li>
+          <li><a href='https://pubmed.ncbi.nlm.nih.gov/37972428/' className='text-gray-500 hover:underline'>https://pubmed.ncbi.nlm.nih.gov/37972428/</a></li>
+          <li><a href='https://doi.org/10.1080/23297018.2024.2335506' className='text-gray-500 hover:underline'>https://doi.org/10.1080/23297018.2024.2335506</a></li>
+        </ol>
       </div>
     </main>
   );
