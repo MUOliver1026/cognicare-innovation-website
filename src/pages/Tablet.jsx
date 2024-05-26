@@ -94,7 +94,7 @@ export default function Tablet() {
           
         </div>
 
-        <div className='grid-2 bg-white p-4'>
+        <div className='grid-2 bg-white p-4 my-auto'>
           <h2 className='text-2xl font-heading2 tracking-wide font-bold text-center py-2'>
             Role of each excipient
           </h2>
@@ -141,7 +141,8 @@ export default function Tablet() {
 
       <div className='grid-2 bg-white px-4 flex justify-center items-center'>
         <img 
-          src={PillsPic} 
+          // src={PillsPic} 
+          src="https://static.vecteezy.com/system/resources/previews/007/404/789/non_2x/sketch-pills-tablet-capsule-and-package-bottle-isolated-on-white-background-hand-drawn-medical-illustration-for-print-web-design-decor-logo-vector.jpg"
           alt='medicine' className='h-96' />
       </div>
       </div>
