@@ -10,7 +10,7 @@ export default function FutureDevelopment() {
       <Breadcrumbs />
       <div className='grid grid-cols-2 gap-16 py-8 px-36'>
         <div className='bg-white flex justify-center items-center'>
-          <img src='https://images.unsplash.com/photo-1584432810601-6c7f27d2362b?q=80&w=3783&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' 
+          <img src='https://manufacturingchemist.com/article-image-alias/developments-in-global-pharmaceutical-excipients-in-4.jpg' 
             alt='medicine' className='h-80 ml-20' />
         </div>
 
@@ -45,12 +45,12 @@ export default function FutureDevelopment() {
         </div>
 
         <div className='bg-white flex justify-center items-center'>
-          <img src='https://images.unsplash.com/photo-1542744095-fcf48d80b0fd?q=80&w=3876&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+          <img src='https://www.atlantisbioscience.com/wp-content/uploads/2023/10/pexels-ivan-samkov-9629684.jpg'
             alt='medicine' className='h-80 ml-20' />
         </div>
 
         <div className='bg-white flex justify-center items-center'>
-          <img src='https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=3870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+          <img src='https://www.nsw.gov.au/sites/default/files/styles/hero_l_x1/public/2023-02/wnswlhd-clinical-trials-hero_0.jpg?itok=VRmqu7OD'
             alt='medicine' className='h-80 ml-20' />
         </div>
 

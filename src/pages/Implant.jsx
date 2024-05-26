@@ -1,6 +1,6 @@
 import React from 'react'
 import Breadcrumbs from '../components/Breadcrumbs';
-import MedicinePic from '../assets/2.png';
+import ImplantPic from '../assets/Implant.png';
 
 export default function Implant() {
   return (
@@ -11,7 +11,7 @@ export default function Implant() {
       <Breadcrumbs />
       <div className='grid grid-cols-2 gap-4 py-4 px-24'>
         <div className='grid-1 bg-white p-4 flex justify-center items-center'>
-          <img src={MedicinePic} alt='medicine' className='h-80 ml-20' />
+          <img src={ImplantPic} alt='medicine' className='h-80' />
         </div>
 
         <div className='grid-2 bg-white p-4'>
