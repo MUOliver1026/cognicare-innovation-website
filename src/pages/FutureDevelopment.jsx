@@ -23,7 +23,7 @@ export default function FutureDevelopment() {
             <a href='https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4270706/' target="_blank"><sup>1</sup></a>&nbsp;
             This allows for the excipients to increase the efficiency, solubility and many other properties of he formulation, hence optimising the capabilities of the API.<br /><br />
 
-            Optimising the formulation is often something that is done via a trial-and-error method. Therefore, this optimization is often conducted through computer simulations before being used in mouse models. 
+            Optimising the formulation is often something that is done via a trial-and-error method. Therefore, this optimisation is often conducted through computer simulations before being used in mouse models. 
             <a href='https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10777730/' target="_blank"><sup>2</sup></a>&nbsp;
             This ensures that the most suitable excipients are used and typically many will be multifunctional or have high functionality, without the need for expensive trial and error style experiments using both <i>in vivo</i> and <i>in virto</i> models.
             <a href='https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7284856/' target="_blank"><sup>3</sup></a>&nbsp;

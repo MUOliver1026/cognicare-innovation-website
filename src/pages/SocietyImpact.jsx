@@ -20,17 +20,17 @@ export default function SocietyImpact() {
             #3 Good Health and Well-being
           </h2>
           <p>
-            Ensure healthy lives and promote well-being for all at all ages
+            Ensure healthy lives and promote well-being for all at all ages.
           </p><br />
           <ol className="list-decimal list-inside">
-            <li>Improve quality of life : Alzheimer's disease can be cured through the use of hsp70 activators to slow down the disease process and improve the quality of life of the patients 
-              <a href='https://www.dementia.org.au/about-dementia/alzheimers-disease' target="_blank"><sup>1</sup></a>.
+            <li><b>Improve quality of life:</b> Alzheimer's disease can be cured through the use of HSP70 activators to slow down the disease process and improve the quality of life of the patients.
+              <a href='https://www.dementia.org.au/about-dementia/alzheimers-disease' target="_blank"><sup>1</sup></a>
             </li><br />
-            <li>Decrease death rate: The median duration of survival in Alzheimer's disease is 3.8 years, which can be prolonged with the use of this drug 
-              <a href='https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3962992/' target="_blank"><sup>2</sup></a>.
+            <li><b>Decrease death rate:</b> The median duration of survival in Alzheimer's disease is 3.8 years, which can be prolonged with the use of this drug.
+              <a href='https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3962992/' target="_blank"><sup>2</sup></a>
             </li><br />
-            <li>Support for caregivers: Slowing the symptoms of Alzheimer's disease can improve the quality of life and well-being for the patient's family, caregivers
-              <a href='https://www.hindawi.com/journals/ijad/2016/9213968/' target="_blank"><sup>3</sup></a>.
+            <li><b>Support for caregivers:</b> Slowing the symptoms of Alzheimer's disease can improve the quality of life and well-being for the patient's family, caregivers.
+              <a href='https://www.hindawi.com/journals/ijad/2016/9213968/' target="_blank"><sup>3</sup></a>
             </li><br />
           </ol>
         </div>
@@ -43,11 +43,11 @@ export default function SocietyImpact() {
             Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all.          
           </p><br />
           <ol className="list-decimal list-inside">
-            <li>Enhancing the capacity of family caregivers: Slowing the progression of Alzheimer's disease for patients who are not retired or who are still financially responsible for their families can make them better able to take care of their family responsibilities
-              <a href='https://www.helpguide.org/articles/alzheimers-dementia-aging/tips-for-alzheimers-caregivers.htm' target="_blank"><sup>4</sup></a>.
+            <li><b>Enhancing the capacity of family caregivers:</b> Slowing the progression of Alzheimer's disease for patients who are not retired or who are still financially responsible for their families can make them better able to take care of their family responsibilities.
+              <a href='https://www.helpguide.org/articles/alzheimers-dementia-aging/tips-for-alzheimers-caregivers.htm' target="_blank"><sup>4</sup></a>
             </li><br />
-            <li>Impact on and support for the economy: Alzheimer's disease has a huge financial impact on socioeconomics, the healthcare system, families, and individuals, and alleviating the symptoms can ensure that patients have support for the financial resources listed above
-            <a href='https://pubmed.ncbi.nlm.nih.gov/37972428/' target="_blank"><sup>5</sup></a>.
+            <li><b>Impact on and support for the economy:</b> Alzheimer's disease has a huge financial impact on socioeconomics, the healthcare system, families, and individuals, and alleviating the symptoms can ensure that patients have support for the financial resources listed above.
+            <a href='https://pubmed.ncbi.nlm.nih.gov/37972428/' target="_blank"><sup>5</sup></a>
             </li><br />
           </ol>
         </div>
@@ -70,9 +70,9 @@ export default function SocietyImpact() {
             Provide access to justice for all and build effective, accountable and inclusive institutions at all levels.         
           </p><br />
           <ol className="list-decimal list-inside">
-            <li>Slowing down the process of patient morbidity to ensure the protection of patients' rights: Reducing a patient's disease process and symptoms and improving their cognitive abilities can ensure that they are protected from abuse, neglect, and exploitation.</li><br />
-            <li>Community Inclusion: for patients, only HSP70 activator this type of drug to help slow down the disease can reduce the chances of patients in life, society, unfair treatment
-              <a href='https://doi.org/10.1080/23297018.2024.2335506' target="_blank"><sup>6</sup></a>.
+            <li><b>Slowing down the process of patient morbidity to ensure the protection of patients' rights:</b> Reducing a patient's disease process and symptoms and improving their cognitive abilities can ensure that they are protected from abuse, neglect, and exploitation.</li><br />
+            <li><b>Community Inclusion:</b> for patients, only HSP70 activator this type of drug to help slow down the disease can reduce the chances of patients in life, society, unfair treatment.
+              <a href='https://doi.org/10.1080/23297018.2024.2335506' target="_blank"><sup>6</sup></a>
             </li><br />
           </ol>
         </div>

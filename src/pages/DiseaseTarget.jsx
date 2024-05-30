@@ -23,8 +23,8 @@ export default function DiseaseTarget() {
           The exact causes of AD are still not fully understood, but age is the most significant risk factor, along with a combination of genetic, lifestyle and environmental factors. The pathogenesis of AD is due to amyloid beta (Aβ) and neurofibrillary tangles (NFTs) abnormal phosphorylated (unstable) of tau protein in the hippocampus, causing toxic effects on neurons and breaking the communication between brain cells, resulting in brain damage with memory loss and other symptoms.
           <a href='https://pubmed.ncbi.nlm.nih.gov/31410002/' target="_blank"><sup>1</sup></a>
           <br/><br/>
-          Recent common treatments of AD are based on cholinesterase inhibitors which can reconnect cell-to-cell communication levels.&nbsp;
-          <a href='https://www.nejm.org/doi/full/10.1056/NEJM199911253412207' target="_blank"><sup>3</sup></a>
+          Recent common treatments of AD are based on cholinesterase inhibitors which can reconnect cell-to-cell communication levels.
+          <a href='https://www.nejm.org/doi/full/10.1056/NEJM199911253412207' target="_blank"><sup>3</sup></a>&nbsp;
           However, it cannot completely cure the destruction of neuron connection, so this treatment only can be a pathway for delaying the AD process. Hence, a promising is in finding a novel target for treating AD entirely.
           <a href='https://www.mayoclinic.org/diseases-conditions/alzheimers-disease/diagnosis-treatment/drc-20350453' target="_blank"><sup>4</sup></a>
           <br/><br/>
