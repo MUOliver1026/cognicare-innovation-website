@@ -26,7 +26,7 @@ const menuItems = [
     label: 'Pipeline',
     key: 'pipeline',
     children: [
-      { label: 'Hit Discovery & Optimization', key: 'pipeline:1', path: '/hit-discovery-&-optimisation' },
+      { label: 'Hit Discovery & Optimisation', key: 'pipeline:1', path: '/hit-discovery-&-optimisation' },
     ],
   },
   {
